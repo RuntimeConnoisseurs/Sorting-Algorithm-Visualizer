@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Change Log
 ============
 
 0.0.1 (12-08-2022)
 - FIRST RELEASE
+=======
+Change Log
+============
+
+0.0.1 (12-08-2022)
+- FIRST RELEASE
+>>>>>>> 0ecd84cd04831a98c91d98dca93fa59bc3b985d2
 ------------------

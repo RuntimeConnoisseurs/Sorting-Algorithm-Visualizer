@@ -133,6 +133,7 @@ def MergeSort(amt):
     plt.show()
 
 
+
 if sort == 1:
     BubbleSort(amt)
 elif sort == 2:
